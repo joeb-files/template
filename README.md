@@ -1,4 +1,4 @@
-<img align="right" src="JoEB-logo-1.png">
+<img align="left" src="JoEB-logo-1.png">
 
 # Templates for manuscripts in JoEB
 
